@@ -1,1 +1,3 @@
+1. What is the output of this program? Explain why.
+
 Outputnya adalah Meow karena metode sound memang ada di class cat sama animal tapi karena isi metodenya sudah di override sama class cat makanya outputnya "Meow".
